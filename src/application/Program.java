@@ -13,7 +13,7 @@ public class Program {
         
         Scanner sc = new Scanner(System.in);
         SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
-aaa
+
         try {
             System.out.print("Room number: ");
             int number = sc.nextInt();
